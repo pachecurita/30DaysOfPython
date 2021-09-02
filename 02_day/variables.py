@@ -61,7 +61,7 @@ floor_division = num_one // num_two
 # radius_circle = 30 #
 radius_circle = float(input('Insert circle radius: '))
 PI = 3.14
-area_of_circle = radius_circle * (PI)^2
+area_of_circle = radius_circle * (PI**2)
 circum_of_circle = 2 * PI * radius_circle
 
 print('The area and the circum of a circle of radius: ', radius_circle, ' is ', area_of_circle, ' and ', circum_of_circle, ' respectively.' )
