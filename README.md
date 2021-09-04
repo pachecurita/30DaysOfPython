@@ -7,3 +7,4 @@ Day challenge | Info challenge | My solution
 --------------|----------------|------------
 01 | [Introduction](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/readme.md "Introduction") | [01_day](https://github.com/pachecurita/30DaysOfPython/blob/main/01_day/helloworld.py)
 02  | [Variables, Built-in Functions](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/02_Day_Variables_builtin_functions/02_variables_builtin_functions.md "Variables, Built-in Functions")  | [02_day](https://github.com/pachecurita/30DaysOfPython/tree/main/02_day)
+03 | [Operators](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/03_Day_Operators/03_operators.md "Operators") |[03_day](https://github.com/pachecurita/30DaysOfPython/tree/main/03_day)
