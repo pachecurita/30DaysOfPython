@@ -10,3 +10,4 @@ Day challenge | Info challenge | My solution
 03 | [Operators](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/03_Day_Operators/03_operators.md "Operators") |[03_day](https://github.com/pachecurita/30DaysOfPython/tree/main/03_day)
 04 | [Strings](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/04_Day_Strings/04_strings.md "Strings") | [04_day](https://github.com/pachecurita/30DaysOfPython/tree/main/04_day)
 05 | [Lists](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/05_Day_Lists/05_lists.md "Lists") | [05_day](https://github.com/pachecurita/30DaysOfPython/tree/main/05_day)
+06 | [Tuples](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/06_Day_Tuples/06_tuples.md "Tuples") | [06_day](https://github.com/pachecurita/30DaysOfPython/tree/main/06_day)
