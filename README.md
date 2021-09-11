@@ -13,3 +13,4 @@ Day challenge | Info challenge | My solution
 06 | [Tuples](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/06_Day_Tuples/06_tuples.md "Tuples") | [06_day](https://github.com/pachecurita/30DaysOfPython/tree/main/06_day)
 07 | [Sets](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/07_Day_Sets/07_sets.md "Sets") | [07_day](https://github.com/pachecurita/30DaysOfPython/tree/main/07_day)
 08 | [Dictionaries](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/08_Day_Dictionaries/08_dictionaries.md "Dictionaries") | [08_day](https://github.com/pachecurita/30DaysOfPython/tree/main/08_day)
+09 | [Conditionals](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/09_Day_Conditionals/09_conditionals.md "Conditionals") | [09_day](https://github.com/pachecurita/30DaysOfPython/tree/main/09_day)
