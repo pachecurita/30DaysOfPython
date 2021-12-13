@@ -63,6 +63,7 @@ input('Exercise 5. Print the following pattern: ')
 # 10 x 10 = 100
 for i in range(0, 11):
     print(i, ' x ', i, ' = ', i**2)
+    #print(f'{i} x {i} = {i**2}')
 
 input("Exercise 6. # Iterate through the list, ['Python', 'Numpy','Pandas','Django', 'Flask'] using a for loop and print out the items.")
 
@@ -80,3 +81,4 @@ input('Exercise 8. # Use for loop to iterate from 0 to 100 and print only odd nu
 for i in range(101):
     if i % 2 != 0:
         print(i)
+        
