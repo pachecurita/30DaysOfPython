@@ -15,3 +15,4 @@ Day challenge | Info challenge | My solution
 08 | [Dictionaries](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/08_Day_Dictionaries/08_dictionaries.md "Dictionaries") | [08_day](https://github.com/pachecurita/30DaysOfPython/tree/main/08_day)
 09 | [Conditionals](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/09_Day_Conditionals/09_conditionals.md "Conditionals") | [09_day](https://github.com/pachecurita/30DaysOfPython/tree/main/09_day)
 10 | [Loops](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/10_Day_Loops/10_loops.md "Loops") | [10_day](https://github.com/pachecurita/30DaysOfPython/tree/main/10_day)
+11 | [Functions](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/11_Day_Functions/11_functions.md "Functions") | [11_day](https://github.com/pachecurita/30DaysOfPython/tree/main/11_day)
