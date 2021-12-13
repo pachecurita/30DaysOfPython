@@ -16,16 +16,16 @@ age_diff = my_age - your_age
 
 if age_diff > 0:
     if age_diff == 1:
-        print(f'I have {abs(age_diff)} year more than my partner.')
+        print(f'You have {abs(age_diff)} years more than your partner.')
     else:
-        print(f'I have {abs(age_diff)} years more than my partner.')
+        print(f'You have {abs(age_diff)} years more than your partner.')
 elif age_diff < 0:
     if age_diff == -1:
-        print(f'My partner has {abs(age_diff)} year more than me.')
+        print(f'Your partner has {abs(age_diff)} years more than you.')
     else:
-        print(f'My partner has {abs(age_diff)} years more than me.')
+        print(f'Your partner has {abs(age_diff)} years more than you.')
 else:
-    print(f'We have the exactly same age: {my_age} years.')
+    print(f'You have the exactly same age: {my_age} years.')
 
 
 input('Enter to continue. . . ')
